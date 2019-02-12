@@ -8,7 +8,7 @@ attr_accessor :wheel_size, :wheel_number
   end
   
   def go 
-    "vrrrrrrrroom!"
+    "vrrrrrrrooom!"
   end
   
   def fill_up_tank
